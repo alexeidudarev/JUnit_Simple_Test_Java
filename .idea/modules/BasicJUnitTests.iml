@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="BasicJUnitTests" external.linked.project.path="$MODULE_DIR$/../../BasicJUnitTests" external.root.project.path="$MODULE_DIR$/../../BasicJUnitTests" external.system.id="GRADLE" external.system.module.group="Test" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../BasicJUnitTests">
+      <excludeFolder url="file://$MODULE_DIR$/../../BasicJUnitTests/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../BasicJUnitTests/build" />
+      <excludeFolder url="file://$MODULE_DIR$/../../BasicJUnitTests/out" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndavnceTestingJUnit.iml" filepath="$PROJECT_DIR$/.idea/modules/AndavnceTestingJUnit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndavnceTestingJUnit_main.iml" filepath="$PROJECT_DIR$/.idea/modules/AndavnceTestingJUnit_main.iml" group="AndavnceTestingJUnit" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndavnceTestingJUnit_test.iml" filepath="$PROJECT_DIR$/.idea/modules/AndavnceTestingJUnit_test.iml" group="AndavnceTestingJUnit" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BasicJUnitTests.iml" filepath="$PROJECT_DIR$/.idea/modules/BasicJUnitTests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BasicJUnitTests_main.iml" filepath="$PROJECT_DIR$/.idea/modules/BasicJUnitTests_main.iml" group="BasicJUnitTests" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BasicJUnitTests_test.iml" filepath="$PROJECT_DIR$/.idea/modules/BasicJUnitTests_test.iml" group="BasicJUnitTests" />
+      <module fileurl="file://$PROJECT_DIR$/JUnitTesting.iml" filepath="$PROJECT_DIR$/JUnitTesting.iml" />
+    </modules>
+  </component>
+</project>
