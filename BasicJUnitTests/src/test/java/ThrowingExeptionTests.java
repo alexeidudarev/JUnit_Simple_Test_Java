@@ -1,4 +1,5 @@
 import org.junit.Assert;
+import org.junit.Ignore;
 import org.junit.Test;
 
 import java.lang.reflect.Array;
@@ -23,8 +24,9 @@ public class ThrowingExeptionTests {
     public void assertNotNullTest(){
         Assert.assertNotNull("object is null",new Object());
     }
-//    @Test
-//    public void assertionFailTest(){
-//        Assert.fail("just throw assertion fall method");
-//    }
+    @Ignore("this is a method i dont want to test")
+    @Test
+    public void assertionFailTest(){
+        Assert.fail("just throw assertion fall method");
+    }
 }
