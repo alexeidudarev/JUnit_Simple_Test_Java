@@ -2,18 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="db75a298-46c5-4e44-9ae0-60b0f65a09b9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicJUnitTests/src/test/java/HandlingExeptionsTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicJUnitTests/src/test/java/IgnoreSomeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicJUnitTests/src/test/java/MathSampleUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/BasicJUnitTests/src/test/java/ParameterizedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BasicJUnitTests/src/test/java/CalculatorTestSuite.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AndavnceTestingJUnit/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/AndavnceTestingJUnit/gradlew.bat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/BasicJUnitTests/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/BasicJUnitTests/gradlew.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasicJUnitTests/out/test/classes/SuiteTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/BasicJUnitTests/out/test/classes/SuiteTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasicJUnitTests/out/test/classes/ThrowingExeptionTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/BasicJUnitTests/out/test/classes/ThrowingExeptionTests.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasicJUnitTests/src/test/java/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicJUnitTests/src/test/java/CalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BasicJUnitTests/src/test/java/ThrowingExeptionTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/BasicJUnitTests/src/test/java/ThrowingExeptionTests.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/BasicJUnitTests/.gradle/" />
@@ -47,47 +39,102 @@
     <session id="1891978671">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gradle" value="2" />
-          <entry key="java" value="12" />
+          <entry key="java" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Groovy" value="2" />
-          <entry key="JAVA" value="12" />
+          <entry key="JAVA" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1666" />
-          <entry key="txt" value="17" />
+          <entry key="java" value="1687" />
+          <entry key="txt" value="50" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1666" />
-          <entry key="PLAIN_TEXT" value="17" />
+          <entry key="JAVA" value="1687" />
+          <entry key="PLAIN_TEXT" value="50" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BasicJUnitTests/src/main/java/Calculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+            <state relative-caret-position="95">
+              <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BasicJUnitTests/src/test/java/ParameterizedTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="421">
+              <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
               <folding>
-                <element signature="e#58#59#0" expanded="true" />
-                <element signature="e#84#85#0" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BasicJUnitTests/src/test/java/IgnoreSomeTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BasicJUnitTests/src/test/java/SuiteTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BasicJUnitTests/src/test/java/CalculatorTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BasicJUnitTests/src/test/java/CalculatorTestSuite.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -444,10 +491,14 @@
     <option name="modificationStamps">
       <map>
         <entry key="$PROJECT_DIR$/AndavnceTestingJUnit" value="6164765702000" />
+        <entry key="$PROJECT_DIR$/AndavnceTestingJUnit/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/AndavnceTestingJUnit/build.gradle" value="3862432780" />
+        <entry key="$PROJECT_DIR$/AndavnceTestingJUnit/gradle/wrapper/gradle-wrapper.properties" value="2007532874" />
         <entry key="$PROJECT_DIR$/AndavnceTestingJUnit/settings.gradle" value="2769325593" />
         <entry key="$PROJECT_DIR$/BasicJUnitTests" value="6164764962000" />
+        <entry key="$PROJECT_DIR$/BasicJUnitTests/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/BasicJUnitTests/build.gradle" value="1109136088" />
+        <entry key="$PROJECT_DIR$/BasicJUnitTests/gradle/wrapper/gradle-wrapper.properties" value="2007532874" />
         <entry key="$PROJECT_DIR$/BasicJUnitTests/settings.gradle" value="1854749954" />
       </map>
     </option>
@@ -672,6 +723,7 @@
         <option value="$PROJECT_DIR$/BasicJUnitTests/src/test/java/MathSampleUtils.java" />
         <option value="$PROJECT_DIR$/BasicJUnitTests/src/test/java/ParameterizedTest.java" />
         <option value="$PROJECT_DIR$/BasicJUnitTests/src/test/java/ThrowingExeptionTests.java" />
+        <option value="$PROJECT_DIR$/BasicJUnitTests/src/test/java/CalculatorTestSuite.java" />
       </list>
     </option>
   </component>
@@ -689,18 +741,12 @@
     </navigator>
     <panes>
       <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="JUnitTesting" type="b2602c69:ProjectViewProjectNode" />
               <item name="JUnitTesting" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JUnitTesting" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JUnitTesting" type="462c0819:PsiDirectoryNode" />
-              <item name="AndavnceTestingJUnit" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="JUnitTesting" type="b2602c69:ProjectViewProjectNode" />
@@ -748,6 +794,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -855,7 +902,14 @@
       <option name="project" value="LOCAL" />
       <updated>1541196630187</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Parameterized Test class added">
+      <created>1541383116913</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1541383116913</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -903,18 +957,13 @@
     <frame x="0" y="23" width="1440" height="812" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25864553" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32952926" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Build" weight="0.32952926" />
-      <window_info anchor="bottom" id="Messages" weight="0.32952926" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.35948646" />
@@ -922,15 +971,20 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32952926" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Gradle" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32952926" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="10" weight="0.32952926" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32952926" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Gradle" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -938,7 +992,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Suite class edded" />
-    <option name="LAST_COMMIT_MESSAGE" value="Suite class edded" />
+    <MESSAGE value="Parameterized Test class added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Parameterized Test class added" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/BasicJUnitTests/build.gradle">
@@ -947,24 +1002,10 @@
     <entry file="file://$PROJECT_DIR$/AndavnceTestingJUnit/build.gradle">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/BasicJUnitTests/src/test/java/SuiteTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BasicJUnitTests/src/test/java/MathSampleUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
           <caret line="3" column="19" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-          <folding>
-            <element signature="e#75#76#0" expanded="true" />
-            <element signature="e#98#99#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -972,17 +1013,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="218">
           <caret line="26" column="51" selection-start-line="26" selection-start-column="51" selection-end-line="26" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#424#425#0" expanded="true" />
-            <element signature="e#510#511#0" expanded="true" />
-            <element signature="e#482#483#0" expanded="true" />
-            <element signature="e#549#550#0" expanded="true" />
-            <element signature="e#474#475#0" expanded="true" />
-            <element signature="e#541#542#0" expanded="true" />
-            <element signature="e#686#687#0" expanded="true" />
-            <element signature="e#749#750#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -993,40 +1023,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BasicJUnitTests/src/test/java/IgnoreSomeTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BasicJUnitTests/src/test/java/ParameterizedTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#762#763#0" expanded="true" />
-            <element signature="e#836#837#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BasicJUnitTests/src/test/java/HandlingExeptionsTests.java">
+    <entry file="file://$PROJECT_DIR$/BasicJUnitTests/src/main/java/Calculator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicJUnitTests/src/test/java/SuiteTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#138#139#0" expanded="true" />
-            <element signature="e#170#171#0" expanded="true" />
-            <element signature="e#279#280#0" expanded="true" />
-            <element signature="e#303#304#0" expanded="true" />
-            <element signature="e#414#415#0" expanded="true" />
-            <element signature="e#477#478#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1038,25 +1047,54 @@
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#792#793#0" expanded="true" />
-            <element signature="e#842#843#0" expanded="true" />
+            <element signature="e#862#863#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/BasicJUnitTests/src/test/java/CalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="171">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BasicJUnitTests/src/main/java/Calculator.java">
+    <entry file="file://$PROJECT_DIR$/BasicJUnitTests/src/test/java/IgnoreSomeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
           <folding>
-            <element signature="e#58#59#0" expanded="true" />
-            <element signature="e#84#85#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicJUnitTests/src/test/java/HandlingExeptionsTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicJUnitTests/src/test/java/ParameterizedTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BasicJUnitTests/src/test/java/CalculatorTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
