@@ -33,4 +33,16 @@ public class ParameterizedTest {
     public void testAddTwoNumbers(){
         Assert.assertThat(MathSampleUtils.add(numA,numB),is(expected));
     }
+
+    public int getNumA() {
+        return numA;
+    }
+
+    public int getNumB() {
+        return numB;
+    }
+
+    public int getExpected() {
+        return expected;
+    }
 }
